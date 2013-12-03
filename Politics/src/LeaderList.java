@@ -20,7 +20,7 @@ public class LeaderList {
 	 * @throws IOException 
 	 */
 	public static void main(String[] args){
-		graphSearch("rahul gandhi");
+		graphSearch("Rahul Gandhi");
 	}
 	
 	public static void graphSearch(String searchTerm){
